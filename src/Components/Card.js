@@ -30,4 +30,4 @@ const Card = ({data}) => {
   )
 }
 
-export default Card
+export default Card.js
